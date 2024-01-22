@@ -1,5 +1,3 @@
-# IE-chatbot-far
-
 ## steps to run the project
 ''' bash
 
@@ -28,6 +26,3 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 '''
-## copy/move pdf files in data directory
-
-
