@@ -10,7 +10,7 @@ Helpful answer:
 """
 
 # Example usage:
-context = "I am seeking accurate information from the Federal Acquisition Regulation (FAR) pdf."
+context = "I am seeking accurate and similar information from the Federal Acquisition Regulation (FAR) pdf."
 question = "What are the key provisions related to procurement processes in the FAR?"
 
 full_prompt = prompt_template.format(context=context, question=question)
